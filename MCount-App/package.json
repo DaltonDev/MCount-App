@@ -1,0 +1,9 @@
+{
+  "name": "mcount-app",
+  "version": "0.0.0",
+  "description": "MCount-App",
+  "main": "app.js",
+  "author": {
+    "name": "plundgre"
+  }
+}
